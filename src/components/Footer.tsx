@@ -68,7 +68,7 @@ export default function Footer() {
             marginBottom: "0.5rem",
           }}
         >
-          Иван &amp; Мария
+          Никита &amp; Анастасия
         </p>
 
         {/* Heart */}
@@ -96,7 +96,7 @@ export default function Footer() {
             marginBottom: "2.5rem",
           }}
         >
-          С любовью, Иван &amp; Мария ♡
+          С любовью, Никита &amp; Анастасия ♡
         </p>
 
         {/* Date */}

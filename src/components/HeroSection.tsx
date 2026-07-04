@@ -138,7 +138,7 @@ export default function HeroSection() {
             marginBottom: "0.5rem",
           }}
         >
-          Иван
+          Никита
         </motion.h1>
 
         <motion.div
@@ -170,7 +170,7 @@ export default function HeroSection() {
             marginBottom: "2rem",
           }}
         >
-          Мария
+          Анастасия
         </motion.h1>
 
         {/* Divider */}
