@@ -132,7 +132,7 @@ export default function Footer() {
             textTransform: "uppercase",
           }}
         >
-          Москва &bull; 2026
+          Тбилиси, Грузия &bull; 2026
         </p>
       </motion.div>
     </footer>
